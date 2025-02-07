@@ -1,0 +1,1 @@
+This repository contains examples of a common error in Python: TypeErrors that occur when performing operations on lists containing inconsistent data types. The `bug.py` file demonstrates the error, while `bugSolution.py` provides an improved version that handles such cases gracefully.
